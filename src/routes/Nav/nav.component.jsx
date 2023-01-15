@@ -7,7 +7,7 @@ const Nav = () => {
     <Fragment>
       <div className='navigation'>
         <Link className='logo-container' to='/'>
-            <div>Logo</div>
+          <div>Logoimage</div>
         </Link>
         <div className='nav-links-container'>
             <Link to='/shop' className='nav-link'>
